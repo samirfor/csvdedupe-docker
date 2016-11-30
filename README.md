@@ -1,5 +1,5 @@
 # csvdedupe-docker
-Run csvdedupe on Docker.
+Run csvdedupe (https://github.com/datamade/csvdedupe) on Docker.
 
 Just do:
 ```bash
